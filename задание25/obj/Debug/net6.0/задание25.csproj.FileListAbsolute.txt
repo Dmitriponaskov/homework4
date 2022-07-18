@@ -1,0 +1,15 @@
+C:\Users\Dmitri\Desktop\homework4\задание25\bin\Debug\net6.0\задание25.exe
+C:\Users\Dmitri\Desktop\homework4\задание25\bin\Debug\net6.0\задание25.deps.json
+C:\Users\Dmitri\Desktop\homework4\задание25\bin\Debug\net6.0\задание25.runtimeconfig.json
+C:\Users\Dmitri\Desktop\homework4\задание25\bin\Debug\net6.0\задание25.dll
+C:\Users\Dmitri\Desktop\homework4\задание25\bin\Debug\net6.0\задание25.pdb
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.csproj.AssemblyReference.cache
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.AssemblyInfoInputs.cache
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.AssemblyInfo.cs
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.csproj.CoreCompileInputs.cache
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.dll
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\refint\задание25.dll
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.pdb
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\задание25.genruntimeconfig.cache
+C:\Users\Dmitri\Desktop\homework4\задание25\obj\Debug\net6.0\ref\задание25.dll
